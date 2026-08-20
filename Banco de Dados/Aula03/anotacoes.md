@@ -36,7 +36,7 @@ Para consultar todos elementos da tabela, uso o comando:
 SELECT * FROM produtos;
 ```
 ---
-Para inserir dados na tabela, usamos o segu te comando:
+Para inserir dados na tabela, usamos o seguinte comando:
 ```sql
 INSERT INTO produtos(nome,valor,estoque)
 VALUES('Caneta','1.50','100');

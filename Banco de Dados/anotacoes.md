@@ -75,4 +75,5 @@ Agora abrimos o VScode e instalamos esta extensão:
 
 Abrimos ela e clicamos no botão de + para fazer a conexão e executamos o seguinte comando:
 
-ip do servidor; postgresql; senha do postgres; 5432; standart connection; show all database; ip novamente. 
+ip do servidor; postgres; senha do postgres; 5432; standart connection; show all database; ip novamente. 
+
